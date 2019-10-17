@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  eventapp-lab24:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-10-17T17:20:04.1544834+09:00"
+    description: A Helm chart for Kubernetes
+    digest: dfe34193160c8f0c62645c7425224778254a80907c7ff1172a4aa2311fc3654a
+    name: eventapp-lab24
+    urls:
+    - https://leeseim.github.io/mycharts/eventapp-lab24-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-10-17T17:20:04.1514844+09:00"
